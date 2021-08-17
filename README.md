@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![AMoreaux's github stats](https://github-readme-stats.vercel.app/api?username=AMoreaux&show_icons=true&title_color=ade9e9&icon_color=ade9e9&text_color=fff&bg_color=0d1117&count_private=true&include_all_commits=true&layout=compact)
+

@@ -1,0 +1,11 @@
+{
+  "repository": "8425b225-ddb4-425a-a560-16db4e49aa69",
+  "head": "set-up-specify",
+  "base": "main",
+  "rules": [
+    {
+      "name": "Extract all tokens to JSON",
+      "path": "specify_output/all-tokens.json"
+    }
+  ]
+}
